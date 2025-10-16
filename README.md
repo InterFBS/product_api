@@ -2,7 +2,7 @@
 API REST construída em Java + Spring Boot + PostgreSQL
 
 ## 🚀 Tecnologias
-- Java 17
+- Java 21
 - Spring Boot 3
 - PostgreSQL
 - Maven
